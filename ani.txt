@@ -2,5 +2,3 @@ Main Code
 
 Rohan
 Aniruddha
-Login
-Logout
